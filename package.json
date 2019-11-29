@@ -1,0 +1,19 @@
+{
+  "name": "node-dynamic-require",
+  "version": "0.0.5",
+  "description": "Dynamic require for Node.js",
+  "license": "MIT",
+  "main": "./index.js",
+  "keywords": [
+    "nodejs", "dynamic-require"
+  ],
+  "repository": {
+    "url": "https://github.com/rodzewich/dynamic-require",
+    "type": "github"
+  },
+  "author": {
+    "name": "Oleg Rodzewich",
+    "email": "rodzewich.oleg@gmail.com",
+    "url": "https://vk.com/rodzewich"
+  }
+}
